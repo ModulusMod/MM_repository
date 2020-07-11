@@ -1,0 +1,21 @@
+#table-1{
+    border: 2px solid black;
+    padding: 1px;
+    text-align: center;
+}
+#table-header th{
+    padding: 0 1em;
+    border: 2px solid black;
+}
+#table-content td{
+    border: 1px solid black;
+    min-width: 6em;
+}
+img{
+    height: 7em;
+    width: 10em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
